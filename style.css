@@ -71,7 +71,7 @@ img{
 /* Nav Style Css Starts From here */
 
 
-nav{
+/* nav{
     position: sticky;
     top: 0px;
     left: 0px;
@@ -133,7 +133,7 @@ nav{
 
 .nav_brand:hover{
     font-size: 1.7rem;
-}
+} */
 
 /* Nav Style Css End From here */
 
@@ -513,6 +513,7 @@ nav{
 
 
 /* Responsive Desing End from here */
+
 
 
 
