@@ -71,7 +71,7 @@ img{
 /* Nav Style Css Starts From here */
 
 
-/* nav{
+nav{
     position: sticky;
     top: 0px;
     left: 0px;
@@ -133,7 +133,7 @@ img{
 
 .nav_brand:hover{
     font-size: 1.7rem;
-} */
+}
 
 /* Nav Style Css End From here */
 
@@ -468,7 +468,7 @@ img{
 }
 
 @media (max-width: 600px){
-    nav{
+    /* nav{
     font-size: 1.1rem;
 }
 .nav_lower{
@@ -506,13 +506,18 @@ img{
 .products{
     grid-template-columns: repeat(1, minmax(0, 1fr));
 
-}
+} */
+
+    nav{
+        display: none;
+    }
 
 }
 
 
 
 /* Responsive Desing End from here */
+
 
 
 
